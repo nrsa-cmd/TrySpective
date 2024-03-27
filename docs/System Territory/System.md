@@ -1,3 +1,5 @@
+
+# System
 ## Basics
 
 The system is an artificial magical construct created, powered and maintained by a pantheon of various [deities](Deity.md) to facilitate easier [[Soul Growth]] for their followers. 
