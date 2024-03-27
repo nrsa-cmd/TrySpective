@@ -1,0 +1,3 @@
+The overall strength of the soul. Can be visualized as a mix of size and density. As Soul Force grows it enhances two aspects of [[Soul Enhancement]]. Capacity and Endurance.
+
+Capacity represents the total amount of power available while endurance represents how tiring it is to utilize certain amounts of Soul Force relative to capacity. Both of these scale linear throughout the process of [[Soul Growth]].

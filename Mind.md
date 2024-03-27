@@ -1,0 +1,3 @@
+The [[mental]] body of a sentient being is referred to as Mind. Unlike objects which are simply surrounded by mental residue, minds produce their own thoughts, emotions etc. 
+
+Beings with a particularly strong/well controlled mind can more directly interact with minds and mental residue around them. Potentially reading/altering the internal components of other minds as well as more esoteric effects. This practice is referred to as [[Mentalism]].

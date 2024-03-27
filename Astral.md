@@ -1,0 +1,5 @@
+One of the three descriptions of [Reality](Reality). According to the astral perspective all of reality is an interplay of causes and effects. In the astral only transitions truly exist with there not being a clear definition of 'now'.
+
+E.g. If you look at a thrown ball flying through the air you can't see the ball itself. Instead you see the echoes of the throw that caused the ball to fly, you can the gravity that will cause it to land, you can see the impact it will have when it does land. In essence you don't see the ball but rather all the causes that led to the balls current situation as well as all the effects the ball will have (With more immediate causes/effects being more clearly visible)
+
+Most living creatures are unable to view reality through an astral lens. However all beings capable of decision making possess an astral body typically referred to as [[Karma]]. This is in clear distinction to the haze of cause and effect the ball from the earlier example possesses.

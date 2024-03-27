@@ -1,0 +1,5 @@
+One of the three descriptions of [[Reality]]. According the mental perspective all of reality is an interplay of emotions, thoughts, sensations and memories.
+
+E.g. If you look at a ball thrown through the air you don't see the ball. You see the love the kid who through the ball has for the dog chasing it. You see the dogs desire to catch it and proudly present it to his master. All the past memories attached to the ball. What the ball would feel like if touched it's texture and weight. The pain it might cause if it hits someone etc.
+
+All sentient beings possess a [[Mind]]. Within the mental this is the representation of the self that is made up of all their memories, thoughts, feelings, the sensations experienced in this moment. The mind is additionally surrounded by a haze similar to the ball example which is made up off the mental impact they've had on others. In truth this haze is residue accumulated from interacting with other minds (both in the case of sentient beings and objects).
