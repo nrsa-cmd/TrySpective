@@ -1,6 +1,6 @@
 ## Basics
 
-The system is an artificial magical construct created, powered and maintained by a pantheon of various [deities](Deity) to facilitate easier [[Soul Growth]] for their followers. 
+The system is an artificial magical construct created, powered and maintained by a pantheon of various [deities](Deity.md) to facilitate easier [[Soul Growth]] for their followers. 
 
 The system must be installed either at birth or with the aid of a skilled soul mage. It only functions within the area of influence of the pantheon powering the system, though exiting this area only prevents further growth not access to already acquired abilities.
 ## Classes

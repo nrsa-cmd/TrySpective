@@ -1,5 +1,0 @@
-The [[astral]] body of a sentient being is referred to as their Karma. Unlike simple objects which are exclusively ruled by cause and effect sentient beings are capable of at least rudimentary decision making. This capacity creates a clear cutoff between them and the rest of reality within the astral where cause and effect become dependent on momentary whimsy.
-
-Karma still contains the causes and effects that define the being in question but they also contain the decisions that can influence those effects in a complicated web. 
-
-Beings with particularly well defined/strong Karma can reach out to touch and move things in astral like they would with their hands in the [[physical]]. But instead of moving objects they alter the relationships of cause and effect, manipulating [[Fate]] and probabilities or even more esoteric effects. This practice is referred to [[Astralism]]. 

@@ -53,4 +53,4 @@ As this singular engraving needs to hold the entire power of the soul, requireme
 
 ### [[System]]
 
-Created by a pantheon of ambitious [deities](Deity) from across the moral spectrum the System massively simplifies soul growth. It offers basic Classes to anyone (Warrior, Mage, ...) as well as skills. By gathering XP (an artificial reward by the system) one gains Levels and new Skills. These are not true gifts of the systems but in truth simple aids.
+Created by a pantheon of ambitious [deities](Deity.md) from across the moral spectrum the System massively simplifies soul growth. It offers basic Classes to anyone (Warrior, Mage, ...) as well as skills. By gathering XP (an artificial reward by the system) one gains Levels and new Skills. These are not true gifts of the systems but in truth simple aids.
