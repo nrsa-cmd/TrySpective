@@ -41,7 +41,7 @@ Eventually a limit is reached at which the Soul Core cannot hold onto additional
 
 Simply perform engravings, scrub those that don't and improve those that do. The most basic and straightforward method of progress.
 
-## [[Cultivation]]
+### [[Cultivation]]
 
 Cultivation is a set of soul growth methods tailored towards accepting outside concepts into the soul in order to smoothen the various processes. Through meditation and absorbing energies from outside sources (often called treasures by cultivators) gathering power becomes faster and easier.
 

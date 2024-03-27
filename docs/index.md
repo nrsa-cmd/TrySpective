@@ -1,11 +1,9 @@
-# Obsidian Notes
+# Setting Overview
 
-Publish your public notes with MkDocs
+Design goals: Enable a wide variety of powers and power systems. Allowing magic, psychics, martials to coexist while also providing a shared power scaling framework to make it easy to keep them roughly equal.
 
-## Hello World!
+Additionally the setting should organically support tropes like Summoning people from other worlds or LitRPG elements.
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+Also waste my time I guess.
 
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Reading should probably (maybe) start at [Reality](Reality.md).
