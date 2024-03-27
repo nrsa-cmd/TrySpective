@@ -1,3 +1,4 @@
+Creating a stable [[Soul Core]] is supremely difficult, in addition to this being a cap in power, souls also require a soul core in order to withstand regular/long-term divine power. This creates an additional bottleneck for gods as they can only reliably use a handful of servants to exert their strength (Even large international churches often have less than two people past the 4th Bottleneck and even for them it can be harmful to channel too much divine strength). Hero Summoning has been developed to circumvent part of this issue.
 
 [[Souls]] from another world are brought over and given a divine blessing that takes the place of a soul core, preemptively solving the biggest issue for passing the 4th bottleneck. In addition, unlike a regular soul core, this blessing is designed to handle larger than normal infusions of divine power creating a servant of the divine without equal.
 

@@ -1,4 +1,4 @@
-# Setting Overview
+# Obsidian Notes
 
 Design goals: Enable a wide variety of powers and power systems. Allowing magic, psychics, martials to coexist while also providing a shared power scaling framework to make it easy to keep them roughly equal.
 
