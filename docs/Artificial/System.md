@@ -7,7 +7,7 @@ The system must be installed either at birth or with the aid of a skilled soul m
 
 The system offers basic classes to anyone. XP is awarded by the system for completing challenging activities or completing quests. On level up the system increases the users [[Soul Force]]. Aside from this the class determines what skills are offered by the system.
 
-### Skills
+### [[Skill]]s
 
 Classes offer skills at different levels. These skills correspondent to [[Soul Engravings]]. Leveling skills is the system improving and deepening engravings. The system automatically ensures that offered skills do not interfere with each other and are grown appropriately.
 
