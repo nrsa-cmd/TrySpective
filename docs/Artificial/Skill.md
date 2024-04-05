@@ -11,11 +11,13 @@ No Skills are offered.
 Grade 1:
 
 Skills are relatively simple. Can be broad or specific. Get leveled from 1 to 20. The possible number of skills is as follows:
+
 - 3 Broad + 2 Specific
 - 2 Broad + 4 Specific
 - 1 Broad + 8 Specific
 
 Example Broad Skills (Domains)
+
 - Sword Mastery
 - Constitution (Boost toughness etc.)
 - Spell Mastery (Fire)
@@ -23,7 +25,9 @@ Example Broad Skills (Domains)
 - Spell Mastery (Steam, Boosted by similar Skills. E.g. Spell Mastery (Fire))
 - Telepathy
 - Telepathy (Read Only)
+
 Example Specific Skills (Techniques)
+
 - Mind Spike (Relatively rudimentary method of directly assaulting another mind with your own)
 - Flame Blast
 - Dodge Roll
@@ -33,12 +37,17 @@ Grade 2:
 Skills at Grade 2 are synergy or fusion skills based on the acquired Grade 1 Skills. These skills reflect engravings designed to enhance the positive interference between the Grade 1 engravings and to lessen any negative interference. Synergy/Fusion skills must be acquired for each pair of Grade 1 Skills. Get leveled from 1 to 20. Grade 1 Skills continue to level based on the progress of their associated Grade 2 Skills (20 to 40).
 
 Domain + Domain = Fused Domain
+
 - Sword Style (Flaming Blade) (Sword Mastery + Spell Mastery (Fire), focuses on layering swords with flame magic to create devastating swings)
 - Sword Style (Flaming Tempest) (Sword Mastery + Spell Mastery (Fire), focuses on using fire magic to support the martial mastery like creating a cloak of fire for cover/short range AOE, creating explosions for sudden bursts of speed.)
 - Spell Synergy (Steam, Fire) (Further boosts Steam magic through the use of fire magic. Enhances the pre-existing synergy)
+
 Domain + Technique = Enhanced/Modified Technique
+
 - Mind Pierce (Mind Spike + Telepathy) (Uses telepathy to find weak spots for more efficient Mind Spike usage)
+
 Technique + Technique = Fused Technique
+
 - Punishing Dodge (Mind Spike + Dodge Roll) (Launches a Mind Spike at the same time as dodging an attack, uses the fact that the attacker is likely less focused on shielding their mind while attacking while also interrupting said attack making it easier to dodge)
 - Mental Parry (Mind Spike + Dodge Roll) (Deflect mental attacks with a Mind Spike)
 
