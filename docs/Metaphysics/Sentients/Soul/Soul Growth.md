@@ -1,5 +1,3 @@
-# Basics
-
 The methodology behind improving the soul and achieving greater levels of [[Soul Enhancement]]. At the most basic the souls strength can be improved by exercising it like a muscle or consuming medicine that forcefully reinforces the soul. These methods improve the raw power behind the soul, typically referred to as [[Soul Force]]. 
 
 However souls eventually reach a series of bottlenecks at which further exercise can no longer improve its Soul Force or at which the soul can not leverage additional Soul Force even if it were accumulated.
