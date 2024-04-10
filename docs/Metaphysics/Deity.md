@@ -1,4 +1,4 @@
-Something akin to a [hivemind](Swarms) cannot only form for lesser, soulless creatures. When sentients form societies or tribes and these begin to exhibit sufficiently complex decision making of their own then said cultures can form [[Souls]] of their own. These are typically more complex than the souls of swarms.
+Something akin to a hivemind (see [[Swarms]]) cannot only form for lesser, soulless creatures. When sentients form societies or tribes and these begin to exhibit sufficiently complex decision making of their own then said cultures can form [[Souls]] of their own. These are typically more complex than the souls of swarms.
 
 These souls are referred to as gods. Members of the hive are referred to as followers.
 
